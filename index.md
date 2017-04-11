@@ -7,6 +7,7 @@ This automatic page generator is the easiest way to create beautiful pages for a
 
 ### help
 什么是markdown？
+本页面支持markdown语法。还有种python文档语法rst也值的一试。
 
 [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
