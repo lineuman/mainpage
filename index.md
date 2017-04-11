@@ -5,12 +5,10 @@
 
 ### 大道至简
 
-### help
+### 查看文档
 什么是markdown？
-本页面支持markdown语法。还有种python文档语法rst也值的一试。
-支持解析md和html文件
 
-[using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+[GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
 
 什么是github pages?
 
