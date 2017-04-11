@@ -1,6 +1,8 @@
 
-# 我的主页
-这个项目的gh-pages分支是github用来生成网页的分支点的可以跳转
+# 我的主页和网页收藏
+支持md和html
 
 http://lineuman.github.io/mainpage/index
+
+http://lineuman.github.io/mainpage/mainpage.html
 
