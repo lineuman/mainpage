@@ -7,7 +7,8 @@
 
 ## bootstrap
 [getbootstrap](https://getbootstrap.com)
-(http://www.bootcss.com/)
+
+[bootcss中文站](http://www.bootcss.com/)
 
 ## jquery
 
@@ -17,9 +18,10 @@
 
 [codecademy](https://www.codecademy.com/learn/javascript)
 
-##django中文站
-(http://djangobook.py3k.cn)
+##django
+
+[dango中文翻译](http://djangobook.py3k.cn)
 
 ## 调试工具
 
-(http://getfirebug.com)
+[getfirebug](http://getfirebug.com)
