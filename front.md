@@ -18,10 +18,14 @@
 
 [codecademy](https://www.codecademy.com/learn/javascript)
 
-##django
+## django
 
 [dango中文翻译](http://djangobook.py3k.cn)
 
 ## 调试工具
 
 [getfirebug](http://getfirebug.com)
+
+## 可供参考
+* [kilianvalkhof个人博客](https://kilianvalkhof.com/)
+* [libvirt](https://libvirt.org/main.css )
