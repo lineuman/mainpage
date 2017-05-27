@@ -7,6 +7,7 @@
 
 ## css
 [css-Tricks](https://css-tricks.com/)
+[css-weekly](http://css-weekly.com/)
 
 ## bootstrap
 [getbootstrap](https://getbootstrap.com)
