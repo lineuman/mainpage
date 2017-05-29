@@ -293,6 +293,8 @@ Full-Width Styles
   background: -ms-linear-gradient(top, #373737, #212121);
   background: -o-linear-gradient(top, #373737, #212121);
   background: linear-gradient(top, #373737, #212121);
+  background-color:#159957;
+  background-image: linear-gradient(120deg, #155799, #159957);
 }
 
 #header_wrap .inner {
