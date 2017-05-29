@@ -2,6 +2,8 @@
 
 [点击查看我的收藏](favorite.html)
 
+[我的前端之路](front)
+
 
 ### 帮助文档
 什么是markdown？
