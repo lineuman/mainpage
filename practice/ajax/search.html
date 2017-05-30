@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search</title>
+</head>
+<body>
+<form action="show.py">
+    <input id="key_word" type="text" value="search">
+    <input id="search_button" type="button" value="点我搜索">
+</form>
+<hr>
+<div>
+    <p>这里将使用异步处理</p>
+    <div id="result">
+    </div>
+
+</div>
+<script>
+function getXMLHttpRequestObject(){
+    var ajax = null;
+    if (window.XMLHttpRequest){
+        ajax = new XMLHttpRequest();
+    }
+    else{
+    ajax = new ActiveXObject('MSXML2.XMLHTTP.3.0');
+    }
+    console.log(ajax);
+    return ajax;
+}
+
+window.onload = search;
+function search(){
+    var ajax = getXMLHttpRequestObject();
+    ajax.onreadystatechange = function(){
+    if (ajax.readyState == 4){
+        if(ajax.status >= 200 && ajax.status < 300 || ajax.status == 304){
+            console.log(ajax.responseText);
+            document.getElementById('result').innerHTML = ajax.responseText;
+        }
+    }
+    else{
+    console.log('do not know');
+    }
+    }
+    //这里使用show.py来伪造成服务端的响应数据
+    var value = document.getElementById('key_word').value;
+    console.log(value);
+    ajax.open('GET', 'show.py?search='+ value, true);
+    ajax.send();
+}
+document.getElementById('search_button').onclick = search;
+
+</script>
+</body>
+</html>
+
+
+
+
