@@ -18,6 +18,8 @@
 
 [jquery](http://api.jquery.com/)
 
+[jqueryui](http://jqueryui.com/)
+
 ## 在线coding网站
 
 [codecademy](https://www.codecademy.com/learn/javascript)
