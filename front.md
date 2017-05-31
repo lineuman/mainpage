@@ -12,7 +12,7 @@
 ## bootstrap
 [getbootstrap](https://getbootstrap.com)
 
-[bootcss中文站](http://www.bootcss.com/)
+[bootcss中文站](http://v3.bootcss.com/)
 
 ## jquery
 
