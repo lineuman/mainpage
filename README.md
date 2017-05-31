@@ -1,7 +1,7 @@
 
-# 前端技能练习
+# 前端技能教程
 
-利用gitpages对css,html,javascript的完全支持，练习前端技能。
+利用gitpages对css,html,javascript的完全支持，总结前端技能。
 
 * bootstrap
 * jquery
