@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <title>Table</title>
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-md-9">
+            <h1>table实例</h1>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>one</th>
+                        <th>two</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>2</td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>4</td>
+                        <td>5</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>bootstrap对talbe类做了非常小的定义，css代码如下</p>
+            <pre>.table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}</pre>
+            <p class="text-primary">这里的collapse意思是	如果可能，边框会合并为一个单一的边框。会忽略 border-spacing 和 empty-cells 属性。</p>
+        <h2>表格的其他实例</h2>
+            <h3>条纹状表格<var>stripe</var>:条纹的意思</h3>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>1</th>
+                        <th>2</th>
+                        <th>3</th>
+                        <th>4</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>..</td>
+                        <td>one</td>
+                        <td>two</td>
+                        <td>three</td>
+                        <td>four</td>
+                    </tr>
+                    <tr>
+                        <td>..</td>
+                        <td>a</td>
+                        <td>b</td>
+                        <td>c</td>
+                        <td>d</td>
+                    </tr>
+                    <tr>
+                        <td>..</td>
+                        <td>!</td>
+                        <td>@</td>
+                        <td>#</td>
+                        <td>$</td>
+                    </tr>
+                </tbody>
+            </table>
+            <h3>带边框的表格</h3>
+            <p><pre>class="table table-bordered"</pre></p>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>1</th>
+                        <th>2</th>
+                        <th>3</th>
+                        <th>4</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>..</td>
+                        <td>one</td>
+                        <td>two</td>
+                        <td>three</td>
+                        <td>four</td>
+                    </tr>
+                    <tr>
+                        <td>..</td>
+                        <td>a</td>
+                        <td>b</td>
+                        <td>c</td>
+                        <td>d</td>
+                    </tr>
+                    <tr>
+                        <td>..</td>
+                        <td>!</td>
+                        <td>@</td>
+                        <td>#</td>
+                        <td>$</td>
+                    </tr>
+                </tbody>
+            </table>
+        <h3>鼠标悬浮做出颜色变化的表格</h3>
+            <p><pre>class="table table-hover</pre></p>
+            <table class="table table-hover table-bordered">
+                <thead>
+                    <tr>
+                        <th>cve_id</th>
+                        <th>问题单</th>
+                        <th>修复情况</th>
+                        <th>发现时间</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="success">
+                        <td>CVE-2013-2313</td>
+                        <td>DTS2017060112345</td>
+                        <td>未修复</td>
+                        <td>2017/06/01</td>
+                     </tr>
+                    <tr class="info">
+                        <td>CVE-2013-2313</td>
+                        <td>DTS2017060112345</td>
+                        <td>未修复</td>
+                        <td>2017/06/01</td>
+                     </tr>
+                    <tr>
+                        <td class="danger">CVE-2013-2313</td>
+                        <td>DTS2017060112345</td>
+                        <td>未修复</td>
+                        <td>2017/06/01</td>
+                     </tr>
+                </tbody>
+            </table>
+            <h3>额外的一些标识</h3>
+            <pre>active success info warning danger</pre>
+            <table class="table table-bordered table-striped">
+                  <colgroup>
+                    <col class="col-xs-1">
+                    <col class="col-xs-7">
+                  </colgroup>
+                  <thead>
+                    <tr>
+                      <th>Class</th>
+                      <th>描述</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <th scope="row">
+                        <code>.active</code>
+                      </th>
+                      <td>鼠标悬停在行或单元格上时所设置的颜色</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">
+                        <code>.success</code>
+                      </th>
+                      <td>标识成功或积极的动作</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">
+                        <code>.info</code>
+                      </th>
+                      <td>标识普通的提示信息或动作</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">
+                        <code>.warning</code>
+                      </th>
+                      <td>标识警告或需要用户注意</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">
+                        <code>.danger</code>
+                      </th>
+                      <td>标识危险或潜在的带来负面影响的动作</td>
+                    </tr>
+                  </tbody>
+                </table>
+        </div>
+
+        <div class="col-md-3"><p>这里意味着我可以插入一些其他的元素veryloooooooooooooooooooooooog</p></div>
+
+    </div>
+
+</div>
+</body>
+</html>
