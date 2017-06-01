@@ -41,6 +41,12 @@
 [getfirebug](http://getfirebug.com)
 
 ## 可供参考
+[mozilla](https://developer.mozilla.org/en-US/)
+
 [kilianvalkhof个人博客](https://kilianvalkhof.com/)
 
 [libvirt](https://libvirt.org/main.css )
+
+## practice
+
+[bootstrap练习](http://lineuman.github.io/mainpage/practice/bootstrap/index)
