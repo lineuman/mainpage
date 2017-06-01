@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">-->
+
+    <title>Form</title>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-9">
+                <h1>from表单类的使用</h1>
+                <ul>
+                    <li>form-control</li>
+                    <li>form-group</li>
+                </ul>
+                <h2>input使用form-control类</h2>
+                <pre>.form-control {
+  display: block;
+  width: 100%;
+  height: 34px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+  -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+  transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+.form-control:focus {
+  border-color: #66afe9;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, 0.6);
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, 0.6);
+}
+                </pre>
+                <pre>&lt;input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email"&gt;</pre>
+                <p>使用了form-control类的input宽度变为100%</p>
+                <p>当获得焦点时具有内阴影的效果</p>
+                <form>
+                    <input class="form-control">
+                </form>
+                <h2>label和input</h2>
+                <p class="text-primary">placeholder为HTML5属性.<br>placeholder 属性提供可描述输入字段预期值的提示信息（hint）。
+该提示会在输入字段为空时显示</p>
+                <from>
+                    <div class="form-group">
+                        <label>email address</label>
+                        <input class="form-control" placeholder="Email">
+                    </div>
+                    <div class="form-group">
+                        <label>password</label>
+                        <input class="form-control" placeholder="Password">
+                    </div>
+                    <div class="form-group">
+                        <label>验证码</label>
+                        <input class="form-control" placeholder="请输入验证码">
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-default">submit</button>
+                    </div>
+                </from>
+                <h2>display:block-inline</h2>
+                <pre>form的class="form-inline"</pre>
+                <form class="form-inline">
+                    <div class="form-group">
+                        <label>username</label>
+                        <input class="form-control" placeholder="Username">
+                    </div>
+                    <div class="form-group">
+                        <label>password</label>
+                        <input class="form-control" placeholder="Password">
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-default">submit</button>
+                    </div>
+                </form>
+                <h2>input一些特殊属性</h2>
+                <h3>readonly</h3>
+                <input class="form-control" placeholder="readonly" value="text" readonly>
+                <h3>disabled</h3>
+                <input class="form-control" placeholder="disabled" disabled>
+                <h2>水平排列的表单</h2>
+                <p>当你使用.form-horizontal可以不用使用.row类</p>
+                <p class="text-danger">此处遗留问题，怎么让label和input下对齐？</p>
+                <form class="form-horizontal">
+                    <div class="form-group">
+                        <label class="col-md-1 control-lebal">username</label>
+                        <div class="col-md-4">
+                            <input class="form-control" placeholder="Username">
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="col-xs-3">
+                <p>col-xs-3</p>
+            </div>
+        </div>
+    </div>
+    <br>
+    <br>
+<div class="panel-footer">
+    <p>占位置好看</p>
+
+</div>
+</body>
+</html>
