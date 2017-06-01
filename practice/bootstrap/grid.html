@@ -9,35 +9,63 @@
 </head>
 <body>
 <div class="container">
-    <div class="page-header text-center">page-header</div>
+
+    <div class="page-header"><h1>Grid System</h1></div>
+    <h2>6:6进行划分</h2>
+    <p>一共有12等份，所以两个6代表均分这个区域</p>
+    <div class="row">
+        <div class="col-md-6" style="background-color:green;">
+            <p>col-md-6</p>
+        </div>
+        <div class="col-md-6" style="background-color:red">
+
+            <p>col-md-6</p>
+        </div>
+    </div>
+    <h2>9:3的比例进行划分</h2>
+    <div class="row">
+        <div class="col-md-9" style="background-color:green;">
+            <p>
+                col-md-9
+            </p>
+        </div>
+        <div class="col-md-3" style="background-color:red;">
+            <p>
+                col-md-3
+            </p>
+        </div>
+    </div>
+    <h2>当两个列高度不一致时怎么处理？</h2>
+    <div class="row">
+        <div class="col-md-4" style="background-color:yellow">
+            <p>hello</p>
+        </div>
+        <div class="col-md-4" style="background-color:pink">
+            <p>one</p>
+            <p>two</p>
+        </div>
+    </div>
+
+    <h2>当列大于12时怎么处理？</h2>
+    <p>例如4+4+9>12,则最后一个占9的列将另起一行排列</p>
+    <div class="row">
+        <div class="col-md-4" style="background-color:yellow">
+            <p>hello</p>
+        </div>
+        <div class="col-md-4" style="background-color:pink">
+            <p>one</p>
+            <p>two</p>
+        </div>
+        <div class="col-md-9" style="background-color:red;">
+            <p>col-md-9</p>
+        </div>
+    </div>
+
+
     <br>
-    <br>
-    <br>
-        <br>
-    <br>
-    <br>
-        <br>
-    <br>
-    <br>
-        <br>
-    <br>
-    <br>
-        <br>
-    <br>
-    <br>
-        <br>
-    <br>
-    <br>
-        <br>
-    <br>
-    <br>
-        <br>
-    <br>
-    <br>
-        <br>
-    <br>
-    <br>
-    <div class="panel-footer text-center">panel-footer</div>
+
+
+    <div class="panel-footer text-left">panel-footer</div>
 </div>
 
 </body>
