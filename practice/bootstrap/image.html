@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+    <title>Images</title>
+    <!--<style type="text/css">-->
+        <!--.page-header{-->
+        <!--background-image:url(/mianpage/images/iceland.jpg)-->
+        <!--}-->
+    <!--</style>-->
+</head>
+<body>
+<div style="background-image:url(/mainpage/images/iceland.jpg);">
+
+    <div style="text-align:center;">
+
+    <img width=100px height=100px class="img-circle" src="/mainpage/images/mother.jpg">
+        <p>如何设置图片居中？</p>
+        <p>如何设置图片大小？</p>
+        <p>img是不是块级元素？</p>
+        <p style="color:red">如何配置背景图片?</p>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-9">
+            <h2>图片形状</h2>
+            <h3>正方形</h3>
+            <pre>border-radius: 6px;</pre>
+            <img class="img-rounded" alt="mother" src="/mainpage/images/mother.jpg">
+            <h3>圆形图片区域</h3>
+            <pre>border-radius:50%;</pre>
+            <img class="img-circle" alt="mother"  src="/mainpage/images/mother.jpg">
+            <h3>thumbnail缩略图模式</h3>
+            <img class="img-thumbnail" alt="mother" src="/mainpage/images/mother.jpg">
+            <h3>img-responsive</h3>
+            <pre>img-responsive类</pre>
+
+            <img class="img-responsive" src="/mainpage/images/mother.jpg">
+
+            <h3>没有使用类</h3>
+            <img src="/mainpage/images/mother.jpg">
+        </div>
+        <div class="col-md-3">
+            <h3>使用<code>.img-responsive</code>使得max-width:100%</h3>
+            <img class="img-responsive img-circle" src="/mainpage/images/mother.jpg">
+        </div>
+    </div>
+</div>
+<div class="panel-footer">
+    <p>footer</p>
+</div>
+</body>
+</html>
