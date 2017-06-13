@@ -58,3 +58,5 @@
  http://www.binarytides.com/
  
  https://guidovranken.wordpress.com/2017/05/03/rpcbomb-remote-rpcbind-denial-of-service-patches/
+ 
+ http://www.dabeaz.com/teaching.html
