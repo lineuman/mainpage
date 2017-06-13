@@ -56,3 +56,5 @@
  https://vulners.com/stats
  
  http://www.binarytides.com/
+ 
+ https://guidovranken.wordpress.com/2017/05/03/rpcbomb-remote-rpcbind-denial-of-service-patches/
