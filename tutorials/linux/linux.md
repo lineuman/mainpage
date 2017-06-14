@@ -54,6 +54,22 @@ netstat -ant
 
 netstat -anu
 
+# 外部连接
+
+## wget
+
+wget *url*
+## curl
+
+curl -O *ulr*
+## ssh
+
+ssh *ip*
+
+显示debug信息
+
+ssh -vv *ip*
+
 # 进程和服务
 
 ## ps
