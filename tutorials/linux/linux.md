@@ -11,6 +11,8 @@
 ## find
 
 
+# 网络和端口
+
 ## lsof
 
 lsof -u *username*
@@ -41,6 +43,8 @@ ss --help
 netstat -ant
 
 netstat -anu
+
+# 安装包管理
 
 ## rpm
 
