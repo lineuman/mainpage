@@ -77,6 +77,8 @@ ps aux
 ## vnstat
 ## lscpu
 ## lsmod
+## lspci
+## dmesg
 ## last
 ## cat /proc/meminfo
 
