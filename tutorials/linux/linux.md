@@ -88,3 +88,19 @@ yum list
 apt-get install
 
 
+# 账号和密码
+
+/etc/passwd
+/etc/shadow
+
+## useradd
+
+## passwd
+
+## userdel
+
+# 归档压缩
+
+tar -xvf 
+
+tar -cvf
