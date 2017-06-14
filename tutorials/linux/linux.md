@@ -84,7 +84,7 @@ ps aux
 
 # 安装包管理
 
-## rpm
+## rpm |dpkg
 
 list files in package
 
