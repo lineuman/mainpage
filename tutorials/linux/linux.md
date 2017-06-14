@@ -56,6 +56,20 @@ ps aux
 ## service
 ## systemctl
 
+# 系统监控
+
+## top
+
+## free
+
+## vmstat
+## mpstat
+## vnstat
+## lscpu
+## lsmod
+## last
+## cat /proc/meminfo
+
 # 安装包管理
 
 ## rpm
