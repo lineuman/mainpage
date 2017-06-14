@@ -12,5 +12,5 @@
 
 http://lineuman.github.io/mainpage/index
 
-http://lineuman.github.io/mainpage/favorite.html
+http://lineuman.github.io/mainpage/favorite
 

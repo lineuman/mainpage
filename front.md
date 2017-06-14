@@ -53,10 +53,12 @@
 
 ## 博主
 
- https://vulners.com/stats
+(https://jonsuh.com/hamburgers/)
+
+(https://vulners.com/stats)
  
- http://www.binarytides.com/
+(http://www.binarytides.com/_
  
- https://guidovranken.wordpress.com/2017/05/03/rpcbomb-remote-rpcbind-denial-of-service-patches/
+(https://guidovranken.wordpress.com/2017/05/03/rpcbomb-remote-rpcbind-denial-of-service-patches/)
  
- http://www.dabeaz.com/teaching.html
+(http://www.dabeaz.com/teaching.html)
