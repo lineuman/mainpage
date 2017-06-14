@@ -8,6 +8,16 @@
 
 ## grep
 
+## cut
+
+## tr
+
+## sort
+
+## uniq
+
+## wc
+
 ## find
 
 
