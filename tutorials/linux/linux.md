@@ -131,5 +131,6 @@ tar -cvf
 
 # other
 
-binutils
-coreutils
+## binutils
+
+## coreutils
