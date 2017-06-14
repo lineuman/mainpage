@@ -130,10 +130,15 @@ tar -xvf
 tar -cvf
 
 # other
+计算网络存储os
 
 ## binutils
 
 ## coreutils
+
+## glibc
+
+## bash
 
 # /proc目录解读
 
