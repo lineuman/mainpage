@@ -128,3 +128,8 @@ apt-get install
 tar -xvf 
 
 tar -cvf
+
+# other
+
+binutils
+coreutils
