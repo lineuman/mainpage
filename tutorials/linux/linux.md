@@ -25,3 +25,10 @@ ss --help
 -s, --summary	show socket usage summary
 
 -l, --listening	display listening sockets
+
+
+## netstat
+
+netstat -ant
+
+netstat -anu
