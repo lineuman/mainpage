@@ -1,27 +1,21 @@
 # 我的收藏
 
-[datacamp](https://www.datacamp.com/)
+### 重点
 
-[codecademy](https://www.codecademy.com/)
-
-[scipy科学计算](https://www.scipy.org)
+<li><a href="https://www.datacamp.com/">datacamp</a></li>
+<li><a href="https://www.codecademy.com/">codecademy</a></li>
+<li><a href="https://www.scipy.org/">scipy科学计算</a></li>
 
 ### Django
 (https://djangopackages.org)
 
 ### 渗透测试
-(https://www.exploit-db.com/)
-
-(https://www.metasploit.com/)
-
-(https://www.kali.org/)
-
-[huntergregal安全研究员](https://github.com/huntergregal/mimipenguin)
-
-(https://www.unhonker.com/)
-
-[阿布网络安全](http://sshack.blog.51cto.com/)
-
+<li><a href="https://www.exploit-db.com/" target="_blank">exploit-db</a></li>
+<li><a href="https://www.unhonker.com/">unhonker</a></li>
+<li><a href="http://sshack.blog.51cto.com/">阿布网络安全盾</a></li>
+<li><a href="https://github.com/huntergregal/mimipenguin" target="blank">huntergregal安全研究员</a></li>
+<li><a href="https://www.metasploit.com/" target="_blank">metasploit</a></li>
+<li><a href="https://www.kali.org/">kali</a></li>
 
 ### python学习资源
 
@@ -105,6 +99,9 @@
 <li><a href="https://xadmin.readthedocs.io/en/latest/quickstart.html" target="_blank"> xadmin</a></li>
 <li><a href="http://www.w3school.com.cn/css/index.asp" target="_blank">css</a></li>
 <li><a href="https://docs.djangoproject.com/en/dev/topics/db/models/" target="_blank">学习使用djangomodels</a></li>
-(http://linuxtools-rst.readthedocs.io/zh_CN/latest/base/06_monitor.html#cpu)
+
+### rst示例
+
+[linux工具基本教程](http://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html)
 
 <li><a href="#" >回到顶部</a></li>
