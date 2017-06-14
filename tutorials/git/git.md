@@ -13,3 +13,10 @@ git colne
 git remote add
 
 git remote -v
+
+git push origin mater
+
+git log
+
+git reset
+
