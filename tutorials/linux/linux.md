@@ -134,3 +134,6 @@ tar -cvf
 ## binutils
 
 ## coreutils
+
+# /proc目录解读
+
