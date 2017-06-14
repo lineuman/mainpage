@@ -32,3 +32,34 @@ ss --help
 netstat -ant
 
 netstat -anu
+
+## rpm
+
+list files in package
+
+rpm -ql *package*
+ 
+rpm -qi --changelog *package*
+
+query/verify package(s) owning file 
+
+rpm -qf *filename* 
+
+rpm -qR *package*
+
+
+## yum | apt-get
+
+**速记法:增删查改生命周期**
+
+yum install 
+
+yum remove 
+
+yum search
+
+yum list
+
+apt-get install
+
+
