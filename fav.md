@@ -81,3 +81,30 @@
 <li><a href="http://www.perihel.at/sec/mz/">mz</a></li>
 <li><a href="http://hping.org/">hping</a></li>
 <li><a href="http://www.codenomicon.com/products/defensics/">defensics</a></li>
+
+### sql tutorial
+<li><a href="http://www.dofactory.com/sql/tutorial">learn spl</a></li>
+<li><a href="http://sqlmap.org" target="_blank">sqlmap</a></li>
+<li><a href="http://helpagesl.org/htmlpurifier/smoketests/xssAttacks.php">xssattacker</a></li>
+
+### 随便看看
+<li><a href="http://weibo.com" target="_blank">微博</a></li>
+<li><a href="https://www.douban.com/" target="_blank">豆瓣</a></li>
+<li><a href="https://www.zhihu.com/" target="_blank">知乎</a></li>
+<li><a href="http://music.163.com/" target="_blank">网易云音乐</a></li>
+<li><a href="http://open.163.com/" target="_blank">网易公开课</a></li>
+<li><a href="https://mp.weixin.qq.com/" >微信公众平台</a></li>
+<li><a href="http://www.qingting.fm/#/home" target="_blank">蜻蜓fm</a></li>
+<li><a href=" http://tv.sohu.com/drama/us/" target="_blank">搜狐美剧</a></li>
+<li><a href="http://global.bing.com/" target="_blank">bing搜索</a></li>
+<li><a href="https://www.google.com/" target="_blank">google</a></li>
+<li><a href="https://bitcoin.org/en/getting-started" target="_blank">bitcoin</a></li>
+<li><a href="https://github.com/lineuman/mainpage/blob/master/mainpage.html" >thispagesourcecode</a></li>
+
+### howtomakeweb
+<li><a href="https://xadmin.readthedocs.io/en/latest/quickstart.html" target="_blank"> xadmin</a></li>
+<li><a href="http://www.w3school.com.cn/css/index.asp" target="_blank">css</a></li>
+<li><a href="https://docs.djangoproject.com/en/dev/topics/db/models/" target="_blank">学习使用djangomodels</a></li>
+(http://linuxtools-rst.readthedocs.io/zh_CN/latest/base/06_monitor.html#cpu)
+
+<li><a href="#" >回到顶部</a></li>
