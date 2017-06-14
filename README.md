@@ -14,3 +14,5 @@ http://lineuman.github.io/mainpage/index
 
 http://lineuman.github.io/mainpage/favorite
 
+http://lineuman.github.io/mainpage/frond
+
