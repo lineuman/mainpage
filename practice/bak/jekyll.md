@@ -9,6 +9,8 @@ Transform your plain text into static websites and blogs
 
 (https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
 
+(https://github.com/jekyll/minima#customization)
+
 ### 安装ruby
 ruby --version
 
