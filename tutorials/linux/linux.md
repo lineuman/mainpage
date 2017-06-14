@@ -44,6 +44,18 @@ netstat -ant
 
 netstat -anu
 
+# 进程和服务
+
+## ps
+
+ps -ef
+
+ps aux
+
+
+## service
+## systemctl
+
 # 安装包管理
 
 ## rpm
