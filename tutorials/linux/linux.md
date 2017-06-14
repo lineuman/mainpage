@@ -1,5 +1,14 @@
 # linux cmd
 
+# text （文本处理）
+
+## awk
+
+## sed
+
+## grep
+
+## find
 
 
 ## lsof
