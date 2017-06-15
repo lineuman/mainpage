@@ -1,12 +1,15 @@
 # 我的收藏
 
-### 重点
+### 重点 学习编程资源
 
 <a href="https://www.datacamp.com/">datacamp</a>
 
 <a href="https://www.codecademy.com/">codecademy</a>
 
+<a href="https://www.codeschool.com/">codeschoole</a>
+
 <a href="https://www.scipy.org/">scipy科学计算</a>
+
 
 ### Django
 <a href=https://djangopackages.org>Django Packages</a>
