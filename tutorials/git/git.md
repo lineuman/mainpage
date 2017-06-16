@@ -20,6 +20,18 @@ git log
 
 git reset
 
+## git branch 
+
+git branch -a
+
+git branch -d
+
+##  git checkout
+
+分支切换
+git checkout 分支名
+
+
 ## git tag
 what is a tag?
 
