@@ -20,3 +20,16 @@ git log
 
 git reset
 
+## git tag
+what is a tag?
+
+tag相当于一个比较容易记住的commitid
+
+how to use it?
+
+打上一个tag
+
+git tag tagname
+
+查看tag
+git show tagname
