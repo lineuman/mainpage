@@ -87,6 +87,8 @@ ssh -t rsa
 
 ssh-copy-id
 
+ssh + curl + socks 能搞事情
+
 # 进程和服务
 
 ## ps
