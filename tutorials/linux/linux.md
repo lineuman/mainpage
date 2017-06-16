@@ -70,6 +70,12 @@ ssh *ip*
 
 ssh -vv *ip*
 
+使用公钥私钥
+
+ssh -t rsa
+
+ssh-copy-id
+
 # 进程和服务
 
 ## ps
