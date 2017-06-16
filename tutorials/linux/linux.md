@@ -54,6 +54,13 @@ netstat -ant
 
 netstat -anu
 
+## nmap
+
+echo 0 >/proc/sys/net/ipv4/icmp_ratelimit
+
+echo 0 >/proc/sys/net/ipv4/icmp_ratemask
+
+
 # 外部连接
 
 ## wget
