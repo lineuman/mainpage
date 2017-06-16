@@ -53,7 +53,7 @@
 
 ## 博主
 
-(https://jonsuh.com/hamburgers/)
+[https://jonsuh.com/hamburgers/](https://jonsuh.com/hamburgers/)
 
 (https://vulners.com/stats)
  
@@ -61,4 +61,6 @@
  
 (https://guidovranken.wordpress.com/2017/05/03/rpcbomb-remote-rpcbind-denial-of-service-patches/)
  
-(http://www.dabeaz.com/teaching.html)
+[http://www.dabeaz.com/teaching.html](http://www.dabeaz.com/teaching.html)
+
+[https://sanctum.geek.nz/arabesque/ssh-socks-and-curl/](https://sanctum.geek.nz/arabesque/ssh-socks-and-curl/)
