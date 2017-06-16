@@ -68,6 +68,10 @@ echo 0 >/proc/sys/net/ipv4/icmp_ratemask
 wget *url*
 ## curl
 
+大部分软件都有调试选项
+
+curl -vv
+
 curl -O *ulr*
 ## ssh
 
