@@ -1,6 +1,6 @@
 
 
-{{ page.title | smartify }}
+<a href="/">{{ page.title | smartify }}</a>
 # python
 
 ## virtualenv
