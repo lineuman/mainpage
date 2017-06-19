@@ -15,3 +15,8 @@
 [http://www.dabeaz.com/teaching.html](http://www.dabeaz.com/teaching.html)
 
 [https://sanctum.geek.nz/arabesque/ssh-socks-and-curl/](https://sanctum.geek.nz/arabesque/ssh-socks-and-curl/)
+
+
+## stackoverflow高票回答
+
+https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118
