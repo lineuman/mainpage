@@ -28,4 +28,8 @@ tags: [jekyll]
 {{ page.title }}
 {% endfor %}
 
+{% for page in site.pages %}
+{{ page.url }}
+{% endfor % }}
+
 {{ site.posts }}
