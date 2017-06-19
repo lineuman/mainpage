@@ -15,12 +15,17 @@ tags: [jekyll]
 {{ page.next }}
 
 {{ page.previous }}
+
+
 <hr>
 
 {{ site.tags }}
 
 {{ site.baseurl }}
 
-{{ site.pages }}
+
+{% for page in  site.pages %}
+{{ page.title }}
+{% endfor %}
 
 {{ site.posts }}
