@@ -18,7 +18,7 @@
 {{ site.baseurl }}
 
 ## site内的所有标签
-{{ site.pages }}
+{{ site.tags }}
 
 
 ## 文章列表
