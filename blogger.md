@@ -1,5 +1,5 @@
 # 个人博客
-
+如果不添加介绍时间久了根本记不住这个博客是哪方面的。
 
 
 [kilianvalkhof个人博客](https://kilianvalkhof.com/)
@@ -13,6 +13,8 @@
 [https://guidovranken.wordpress.com/](https://guidovranken.wordpress.com/2017/05/03/rpcbomb-remote-rpcbind-denial-of-service-patches/)
  
 [http://www.dabeaz.com/teaching.html](http://www.dabeaz.com/teaching.html)
+
+Systems, Tools, and Terminal Science
 
 [https://sanctum.geek.nz/arabesque/ssh-socks-and-curl/](https://sanctum.geek.nz/arabesque/ssh-socks-and-curl/)
 
