@@ -25,11 +25,14 @@ layout: default
 {{ site.tags }}
 
 {{ site.baseurl }}
+
 ## 文章列表
 <ul>
 {% for post in site.posts %}
-{{ post.url }}
+<li>{{ post.url }}</li>
 {% endfor %}
+</ul>
+
 
 {% for page in  site.pages %}
 {{ page.title }}
