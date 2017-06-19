@@ -6,7 +6,8 @@ layout: default
 
 
 # jekyll
-
+## 注意
+当你指明了data和catagory时，会被映射到另一个路径
 ## jekyll var
 
 ### page
