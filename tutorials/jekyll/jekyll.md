@@ -28,8 +28,10 @@ tags: [jekyll]
 {{ page.title }}
 {% endfor %}
 
+## 使用循环遍历
+
 {% for page in site.pages %}
 {{ page.url }}
-{% endfor % }
+{% endfor %}
 
 {{ site.posts }}
