@@ -2,6 +2,7 @@
 # jekyll
 
 ## jekyll var
+{{ site.tags }}
 
 {{ site.baseurl }}
 
