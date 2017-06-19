@@ -11,6 +11,8 @@ categories: main
 
 ## jekyll var
 
+### page
+
 {{ page.title }}
 
 {{ page.url }}
@@ -19,6 +21,7 @@ categories: main
 
 {{ page.previous }}
 
+{{ page.tags }}
 
 <hr>
 
