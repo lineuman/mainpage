@@ -17,9 +17,7 @@ categories: main
 
 {{ page.url }}
 
-{{ page.next }}
-
-{{ page.previous }}
+{{ page.path }}
 
 {{ page.tags }}
 
