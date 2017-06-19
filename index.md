@@ -2,6 +2,8 @@
 
 [点击查看我的收藏](favorite.html)
 
+[我的jekyll博客](https://lineuman.github.io/blog/)
+
 [我的前端之路](front)
 
 [bootsrap练习](practice/bootstrap/button)
