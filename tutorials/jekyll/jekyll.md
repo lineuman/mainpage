@@ -1,5 +1,5 @@
 ---
-title: "jekyll"
+title: "jekyll for you"
 tags: [jekyll]
 ---
 
@@ -9,6 +9,10 @@ tags: [jekyll]
 ## jekyll var
 
 {{ page.title }}
+
+{{ page.url }}
+
+<hr>
 
 {{ site.tags }}
 
