@@ -30,6 +30,6 @@ tags: [jekyll]
 
 {% for page in site.pages %}
 {{ page.url }}
-{% endfor % }}
+{% endfor % }
 
 {{ site.posts }}
