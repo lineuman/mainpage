@@ -15,6 +15,9 @@
 
 [bootcss中文站](http://v3.bootcss.com/)
 
+## React
+[https://facebook.github.io/react/docs/hello-world.html](https://facebook.github.io/react/docs/hello-world.html)
+
 ## jquery
 
 [jquery](http://api.jquery.com/)
