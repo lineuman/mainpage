@@ -1,5 +1,6 @@
 
 
+{{ page.title | smartify }}
 # python
 
 ## virtualenv
