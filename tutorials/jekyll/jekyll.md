@@ -1,7 +1,7 @@
 ---
 title: "jekyll for you"
 tags: [jekyll]
-layout: default
+layout: post
 date:   2016-02-12 17:50:00
 categories: main
 ---
