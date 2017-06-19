@@ -1,7 +1,7 @@
 ---
 title: "jekyll for you"
 tags: [jekyll]
-layout: default
+
 ---
 
 
@@ -31,11 +31,11 @@ layout: default
 
 
 ## 文章列表
-<ul>
+
 {% for post in site.posts %}
-<li>{{ post.url }} {{ post.title }}</li>
+{{ post.url }} {{ post.title }}
 {% endfor %}
-</ul>
+
 
 
 {% for page in  site.pages %}
@@ -48,4 +48,4 @@ layout: default
 {{ page.url }}
 {% endfor %}
 
-{{ site.posts }}
+
