@@ -26,6 +26,10 @@ layout: default
 
 {{ site.baseurl }}
 
+## site内的所有标签
+{{ site.pages }}
+
+
 ## 文章列表
 <ul>
 {% for post in site.posts %}
