@@ -1,9 +1,3 @@
----
-title: "jekyll for you"
-tags: [jekyll]
-
----
-
 
 # jekyll
 ## 注意
@@ -21,9 +15,6 @@ tags: [jekyll]
 {{ page.tags }}
 
 <hr>
-
-{{ site.tags }}
-
 {{ site.baseurl }}
 
 ## site内的所有标签
