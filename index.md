@@ -6,6 +6,8 @@
 
 [我的前端之路](front)
 
+[个人博主](blogger)
+
 [bootsrap练习](practice/bootstrap/button)
 
 [jquery练习]()
