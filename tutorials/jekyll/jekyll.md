@@ -12,6 +12,9 @@ tags: [jekyll]
 
 {{ page.url }}
 
+{{ page.next }}
+
+{{ page.previous }}
 <hr>
 
 {{ site.tags }}
