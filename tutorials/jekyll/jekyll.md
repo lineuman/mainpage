@@ -29,7 +29,7 @@ layout: default
 ## 文章列表
 <ul>
 {% for post in site.posts %}
-<li>{{ post.url }}</li>
+<li>{{ post.url }} {{ post.title }}</li>
 {% endfor %}
 </ul>
 
