@@ -18,6 +18,9 @@
 ## React
 [https://facebook.github.io/react/docs/hello-world.html](https://facebook.github.io/react/docs/hello-world.html)
 
+## jsx
+[jsx](http://jsx.github.io/)
+
 ## jquery
 
 [jquery](http://api.jquery.com/)
