@@ -179,3 +179,6 @@ tar -cvf
 
 # /proc目录解读
 
+
+# 参考
+[https://www.cyberciti.biz/faq/howto-list-find-files-in-rpm-package/](https://www.cyberciti.biz/faq/howto-list-find-files-in-rpm-package/)
