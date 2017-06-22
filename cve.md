@@ -14,6 +14,13 @@
 ## exploits database
 [https://www.exploit-db.com/](https://www.exploit-db.com/)
 
+## Google Hacking Database (GHDB)
+ghdb是指使用包含了google的搜索技巧的一个数据库
+
+[https://www.exploit-db.com/google-hacking-database/](https://www.exploit-db.com/google-hacking-database/)
+
+
+
 ## 漏洞与几个概念密切相关Package,Port,kernel
 内核的漏洞可能会特别一点。
 
