@@ -1,6 +1,9 @@
 # 个人博客
 如果不添加介绍时间久了根本记不住这个博客是哪方面的。
 
+c++ python博主
+
+[https://www.hustyx.com/](https://www.hustyx.com/)
 
 [kilianvalkhof个人博客](https://kilianvalkhof.com/)
 
