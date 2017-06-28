@@ -42,6 +42,8 @@
 
 [dango中文翻译](http://djangobook.py3k.cn)
 
+[http://www.django-rest-framework.org/](http://www.django-rest-framework.org/)
+
 ## 调试工具
 
 [getfirebug](http://getfirebug.com)
