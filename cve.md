@@ -21,6 +21,8 @@ ghdb是指使用包含了google的搜索技巧的一个数据库
 
 
 ## rapid7
+nexpose和metasploit可都是他家的
+
 [https://www.rapid7.com/](https://www.rapid7.com/)
 
 ## 漏洞与几个概念密切相关Package,Port,kernel
