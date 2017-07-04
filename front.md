@@ -5,6 +5,12 @@
 ## 入门线路
 [w3school](http://www.w3school.com.cn)
 
+## 数据可视化
+[http://echarts.baidu.com/tutorial.html#5%20%E5%88%86%E9%92%9F%E4%B8%8A%E6%89%8B%20ECharts](http://echarts.baidu.com/tutorial.html#5%20%E5%88%86%E9%92%9F%E4%B8%8A%E6%89%8B%20ECharts)
+
+表格
+
+[http://bootstrap-table.wenzhixin.net.cn/](http://bootstrap-table.wenzhixin.net.cn/)
 ## css
 [css-Tricks](https://css-tricks.com/)
 
