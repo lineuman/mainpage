@@ -15,6 +15,9 @@ c++ python博主
  
 [https://guidovranken.wordpress.com/](https://guidovranken.wordpress.com/2017/05/03/rpcbomb-remote-rpcbind-denial-of-service-patches/)
 
+系统管理员
+
+[http://www.ducea.com/2008/02/12/linux-tips-find-all-files-of-a-particular-size/](http://www.ducea.com/2008/02/12/linux-tips-find-all-files-of-a-particular-size/)
 python教程
 
 [http://www.dabeaz.com/teaching.html](http://www.dabeaz.com/teaching.html)
