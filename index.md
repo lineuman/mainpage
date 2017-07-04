@@ -8,6 +8,8 @@
 
 [个人博主](blogger)
 
+[cve相关](cve)
+
 [bootsrap练习](practice/bootstrap/button)
 
 [jquery练习]()
