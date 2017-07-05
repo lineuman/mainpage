@@ -118,6 +118,9 @@ ps aux
 ## cat /proc/meminfo
 
 # 安装包管理
+## cpio是更加底层的操作，rpm本质也是cpio归档的产物
+
+cpio -itv <test.cpio
 
 ## rpm |dpkg
 
