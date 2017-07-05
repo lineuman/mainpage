@@ -19,6 +19,12 @@ ghdb是指使用包含了google的搜索技巧的一个数据库
 
 [https://www.exploit-db.com/google-hacking-database/](https://www.exploit-db.com/google-hacking-database/)
 
+## securityfocus
+SecurityFocus was acquired by Symantec in August 2002.
+
+[http://www.securityfocus.com/](http://www.securityfocus.com/)
+
+[http://www.securityfocus.com/bid/](http://www.securityfocus.com/bid/)
 
 ## rapid7
 nexpose和metasploit可都是他家的
@@ -31,4 +37,9 @@ nexpose和metasploit可都是他家的
 安装包出现了可以被利用的漏洞，所以要升级安装包
 
 与网络相关的可能会涉及端口。
+
+堆栈溢出 overflow
+
+任意代码执行
+
 
