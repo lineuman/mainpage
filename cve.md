@@ -35,6 +35,8 @@ nexpose和metasploit可都是他家的
 [https://nvd.nist.gov/vuln/search](https://nvd.nist.gov/vuln/search)
 
 ## the difference between cve and cwe
+Software weaknesses are errors that can lead to software vulnerabilities.
+
 cve更加的具体化，什么系统什么漏洞，cwe就是更冲向，例如潜在漏洞也会也会算到cwe
 
 [https://cwe.mitre.org/about/faq.html#A.1](https://cwe.mitre.org/about/faq.html#A.1)
