@@ -31,7 +31,20 @@ nexpose和metasploit可都是他家的
 
 [https://www.rapid7.com/](https://www.rapid7.com/)
 
+## nvd
+[https://nvd.nist.gov/vuln/search](https://nvd.nist.gov/vuln/search)
+
+## the difference between cve and cwe
+cve更加的具体化，什么系统什么漏洞，cwe就是更冲向，例如潜在漏洞也会也会算到cwe
+
+[https://cwe.mitre.org/about/faq.html#A.1](https://cwe.mitre.org/about/faq.html#A.1)
+## 学无止境
+sec博主
+
+[https://danielmiessler.com/study/#gs.K9at9ug](https://danielmiessler.com/study/#gs.K9at9ug)
+
 ## 漏洞与几个概念密切相关Package,Port,kernel
+
 内核的漏洞可能会特别一点。
 
 安装包出现了可以被利用的漏洞，所以要升级安装包
