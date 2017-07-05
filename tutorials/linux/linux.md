@@ -122,6 +122,8 @@ ps aux
 
 cpio -itv <test.cpio
 
+rpm2cpio pack.rpm |cpio -ivd 解压是之后复制到系统对应位置
+
 ## rpm |dpkg
 
 list files in package
