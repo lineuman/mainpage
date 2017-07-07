@@ -44,6 +44,8 @@
 
 [codecademy](https://www.codecademy.com/learn/javascript)
 
+[http://javascript-roadtrip.codeschool.com/levels/1/challenges/1](http://javascript-roadtrip.codeschool.com/levels/1/challenges/1)
+
 ## django
 
 [dango中文翻译](http://djangobook.py3k.cn)
