@@ -18,6 +18,10 @@ c++ python博主
  
 [https://guidovranken.wordpress.com/](https://guidovranken.wordpress.com/2017/05/03/rpcbomb-remote-rpcbind-denial-of-service-patches/)
 
+使用scapy建立tcp三次握手需要使用防火墙把RST包给屏蔽
+
+[https://www.fir3net.com/Programming/Python/how-to-build-a-tcp-connection-in-scapy.html](https://www.fir3net.com/Programming/Python/how-to-build-a-tcp-connection-in-scapy.html)
+
 系统管理员
 
 [http://www.ducea.com/2008/02/12/linux-tips-find-all-files-of-a-particular-size/](http://www.ducea.com/2008/02/12/linux-tips-find-all-files-of-a-particular-size/)
