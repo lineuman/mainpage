@@ -47,6 +47,11 @@ sec博主
 
 [https://danielmiessler.com/study/#gs.K9at9ug](https://danielmiessler.com/study/#gs.K9at9ug)
 
+## other
+[https://www.fireeye.com/current-threats/recent-zero-day-attacks.html](https://www.fireeye.com/current-threats/recent-zero-day-attacks.html)
+
+[http://www.cvedetails.com/cve-help.php](http://www.cvedetails.com/cve-help.php)
+
 ## 漏洞与几个概念密切相关Package,Port,kernel
 
 内核的漏洞可能会特别一点。
