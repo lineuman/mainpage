@@ -51,7 +51,14 @@ sec博主
 [https://www.fireeye.com/current-threats/recent-zero-day-attacks.html](https://www.fireeye.com/current-threats/recent-zero-day-attacks.html)
 
 [http://www.cvedetails.com/cve-help.php](http://www.cvedetails.com/cve-help.php)
+## 关于web漏洞
+owasp项目
 
+[https://www.owasp.org/index.php/Main_Page](https://www.owasp.org/index.php/Main_Page)
+
+演练工具
+
+[https://www.sans.org/reading-room/whitepapers/application/introduction-owasp-mutillidae-ii-web-pen-test-training-environment-34380](https://www.sans.org/reading-room/whitepapers/application/introduction-owasp-mutillidae-ii-web-pen-test-training-environment-34380)
 ## 漏洞与几个概念密切相关Package,Port,kernel
 
 内核的漏洞可能会特别一点。
