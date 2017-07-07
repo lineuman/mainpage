@@ -56,6 +56,10 @@ owasp项目
 
 [https://www.owasp.org/index.php/Main_Page](https://www.owasp.org/index.php/Main_Page)
 
+练习你的hack技术
+
+[https://www.checkmarx.com/2015/04/16/15-vulnerable-sites-to-legally-practice-your-hacking-skills/](https://www.checkmarx.com/2015/04/16/15-vulnerable-sites-to-legally-practice-your-hacking-skills/)
+
 演练工具
 
 [https://www.sans.org/reading-room/whitepapers/application/introduction-owasp-mutillidae-ii-web-pen-test-training-environment-34380](https://www.sans.org/reading-room/whitepapers/application/introduction-owasp-mutillidae-ii-web-pen-test-training-environment-34380)
