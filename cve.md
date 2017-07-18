@@ -1,5 +1,11 @@
 
 漏洞相关
+
+## 安全配置检测
+cis_centos
+
+[https://learn.cisecurity.org/benchmarks](https://learn.cisecurity.org/benchmarks)
+
 ## shodan
 [https://www.shodan.io/](https://www.shodan.io/)
 
