@@ -66,6 +66,11 @@
 ##  http抓包
 [https://www.httpwatch.com/download/](https://www.httpwatch.com/download/)
 
+## https
+真是不明白为何http的内容都放到前段来了
+
+`openssl s_client -connect ip:443`
+
 ## practice
 
 [bootstrap练习](http://lineuman.github.io/mainpage/practice/bootstrap/index)
