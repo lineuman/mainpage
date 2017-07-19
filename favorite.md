@@ -10,6 +10,9 @@
 
 <a href="https://www.scipy.org/">scipy科学计算</a>
 
+## 配置管理
+[https://github.com/ansible/ansible](https://github.com/ansible/ansible)\
+
 ### overflow
 [http://www.c-jump.com/CIS77/CPU/Overflow/lecture.html#](http://www.c-jump.com/CIS77/CPU/Overflow/lecture.html#)
 [https://www.qualys.com/2017/06/19/stack-clash/stack-clash.txt](https://www.qualys.com/2017/06/19/stack-clash/stack-clash.txt)
