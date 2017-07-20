@@ -10,6 +10,8 @@
 
 [cve相关](cve)
 
+[ddos](ddos)
+
 [bootsrap练习](practice/bootstrap/button)
 
 [jquery练习]()
