@@ -4,6 +4,10 @@ scapy
 
 [http://www.thice.nl/creating-ack-get-packets-with-scapy/](http://www.thice.nl/creating-ack-get-packets-with-scapy/)
 
+pythonstack
+
+[http://stackabuse.com/tag/python/](http://stackabuse.com/tag/python/)
+
 c++ python博主
 
 [https://www.hustyx.com/](https://www.hustyx.com/)
