@@ -97,6 +97,10 @@ ps -ef
 
 ps aux
 
+## suse列出所有服务
+
+chkconfig --list
+
 
 ## service
 ## systemctl
