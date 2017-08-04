@@ -107,6 +107,9 @@ chkconfig --list
 
 # 系统监控
 
+## suse文档
+[https://www.suse.com/documentation/sles11/book_sle_tuning/data/sec_util_system.html](https://www.suse.com/documentation/sles11/book_sle_tuning/data/sec_util_system.html)
+
 ## top
 
 ## free
