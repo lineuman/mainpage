@@ -25,6 +25,9 @@ c++ python博主
 使用scapy建立tcp三次握手需要使用防火墙把RST包给屏蔽
 
 [https://www.fir3net.com/Programming/Python/how-to-build-a-tcp-connection-in-scapy.html](https://www.fir3net.com/Programming/Python/how-to-build-a-tcp-connection-in-scapy.html)
+个人博主
+
+[http://rz.scale-it.pl/2013/03/08/which_programming_language_should_you_use_for_a_web_backend.html](http://rz.scale-it.pl/2013/03/08/which_programming_language_should_you_use_for_a_web_backend.html)
 
 系统管理员
 
