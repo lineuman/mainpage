@@ -1,7 +1,7 @@
 
-# 前端技能教程
+# Frontend skill tutorial
 
-利用gitpages对css,html,javascript的完全支持，总结前端技能。
+gitpages、css、html、javascript、frontend
 
 * bootstrap
 * jquery
