@@ -8,6 +8,10 @@ gitpages、css、html、javascript、frontend
 * css
 * javascript
 * other tools
+* react
+* tailwindcss
+* shadcn/ui
+* nextjs
 
 
 http://lineuman.github.io/mainpage/index
